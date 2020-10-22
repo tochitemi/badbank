@@ -1,0 +1,32 @@
+{
+  "accounts": [
+    {
+      "name": "",
+      "email": "",
+      "balance": 0,
+      "password": "",
+      "transactions": []
+    },
+    {
+      "name": "Tochi",
+      "email": "tochi@mit.edu",
+      "balance": 547,
+      "password": "tochi",
+      "transactions": [
+        "Deposit: $555 on Wed Oct 21 2020 19:23:20 GMT-0700 (Pacific Daylight Time)",
+        "Deposit: $231 on Wed Oct 21 2020 19:23:29 GMT-0700 (Pacific Daylight Time)",
+        "Withdrawal: $239 on Wed Oct 21 2020 19:23:39 GMT-0700 (Pacific Daylight Time)"
+      ]
+    },
+    {
+      "name": "Test User 1",
+      "email": "testing@mit.edu",
+      "balance": 54,
+      "password": "test",
+      "transactions": [
+        "Deposit: $87 on Wed Oct 21 2020 19:24:16 GMT-0700 (Pacific Daylight Time)",
+        "Withdrawal: $33 on Wed Oct 21 2020 19:25:18 GMT-0700 (Pacific Daylight Time)"
+      ]
+    }
+  ]
+}
